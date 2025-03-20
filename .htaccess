@@ -1,0 +1,12 @@
+RewriteEngine On
+
+RewriteRule ^category/([0-9a-z-]+)$  showC.php?category=$1
+RewriteRule ^product/([0-9a-z]+)$    product-view.php?id=$1
+RewriteRule ^order/([0-9]+)$         order.php?id=$1
+RewriteRule ^pay/([0-9]+)$           pay.php?pid=$1
+RewriteRule ^login$                 http://localhost/project/GoShop/login.php
+RewriteRule ^signup$                http://localhost/project/GoShop/signup.php
+RewriteRule ^myorder$               http://localhost/project/GoShop/myorder.php
+RewriteRule ^logout$                http://localhost/project/GoShop/logout.php
+RewriteRule ^index$                 http://localhost/project/GoShop/index.php
+RewriteRule ^management/$           http://localhost/project/GoShop/management/protect.php

@@ -1,0 +1,25 @@
+----------PROJECT SHOPER----------
+
+STEP 1 = create folder project and open project and extract zip file
+STEP 2 = extract zip
+STEP 3 = import sql file your server
+STEP 4 = open your browser and type http://localhost/project/LCS/ and enter
+
+-----------------------------------------------------------------------------
+----------PROJECT INFORMATION----------
+
+1 = signup page
+2 = login page
+3 = management system for admin
+4 = --------------------------
+5 = --------------------------
+
+-----------------------------------------------------------------------------
+----------PROJECT TOOLS----------
+SERVER = XAMPP  V-3.2.4 APACHE
+LANGUAGE = HTML JAVASCRIPT PHP AJAX TECHNOLOGY JQUERY mysqli
+CSS      = BOOTSTRAPE 5 AND BASIC CSS
+DATABASE = MYSQL
+
+-----------------------------------------------------------------------------
+  
